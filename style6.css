@@ -1,0 +1,9 @@
+.div{
+    
+    border-left: solid;
+    border-color: red;
+    border-width: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px;
+    background-color: silver;
+}
